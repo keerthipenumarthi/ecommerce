@@ -6,4 +6,4 @@ function cart() {
   return;
   console.log("hello");
 }
-export default ecommerce;
+export default home;
